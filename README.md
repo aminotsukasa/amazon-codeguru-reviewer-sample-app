@@ -10,7 +10,7 @@ To get started with CodeGuru Reviewer, follow these steps.
 
 ### Step 1: Fork this repo
 
-Log in to GitHub and choose **Fork** to fork this example app to your GitHub account.
+Log in to GitHub and choose **Fork** to fork this example app to your GitHub account. 
 
 ![Image of Fork button](images/fork.png)
 
